@@ -1,0 +1,13 @@
+Type of Components in ReactJs
+1. Functional Component
+2. Class Component
+
+Lets create some nested components
+MyComp1 (Functional) return HTML
+	MyComp2 (Functional) 
+		MyComp3 (Class) return HTML
+			MyComp4 (Fuctional)
+			MyComp5 (Class)
+
+RFC = React Functional Component
+RCC = React Class Component
